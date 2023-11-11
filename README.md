@@ -4,4 +4,4 @@
 
 ## Simple Loading Screen
 
-![KPOP Music Player](./readme-images/desktop.png "MusicPlayer Example")
+![KPOP Music Player](./images/example1.png "MusicPlayer Example")
