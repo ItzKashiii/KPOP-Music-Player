@@ -2,6 +2,6 @@
 
 <h4 align="center">A KPOP web MUSIC PLAYER using javascript. Build in HTML , CSS and JS</h4>
 
-## Simple Loading Screen
+### Simple Loading Screen
 
 ![KPOP Music Player](./images/example1.png "MusicPlayer Example")
