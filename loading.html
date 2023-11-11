@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading...</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #000;
+            opacity: 1;
+            transition: opacity 1s ease-in-out;
+            overflow: hidden;
+        }
+        #loading-container {
+            display: flex;
+            align-items: center;
+            animation: float 2s infinite alternate;
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+        }
+        #loading-icon {
+            margin-right: 10px;
+            font-size: 24px;
+            color: #fff;
+        }
+        #loading-text {
+            font-size: 24px;
+            white-space: nowrap;
+            overflow: hidden;
+            color: #fff;
+        }
+        @keyframes float {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-20px);
+            }
+        }
+        .hidden {
+            opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="loading-container">
+        <div id="loading-icon"><i class="fa fa-headphones"></i></div>
+        <div id="loading-text">KMP is Loading....</div>
+    </div>
+
+    <script>
+        // Simulate a delay for demonstration purposes (you can remove this in a real application)
+        setTimeout(function () {
+            // Add a class to hide the loading screen with a fading effect
+            document.body.classList.add('hidden');
+
+            // Redirect to the main HTML file after the transition
+            setTimeout(function () {
+                window.location.href = 'index.html';
+            }, 1500); // Adjust the delay time to match the transition duration
+        }, 2000); // Adjust the delay time as needed (in milliseconds)
+    </script>
+</body>
+</html>
