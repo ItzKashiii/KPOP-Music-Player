@@ -3,6 +3,10 @@
 
 <h4 align="center">A KPOP web MUSIC PLAYER using javascript. Build in HTML , CSS and JS</h4>
 
+<h5>Github Deploy</h5>
+<a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
+
+<h5>Repl.it Deploy</h5>
 <a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
 </div>
 
