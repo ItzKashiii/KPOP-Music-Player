@@ -18,8 +18,8 @@ To run this __**KPOP Web Music Player**__, type and this command in Windows Powe
 git clone https://github.com/ItzKashiii/KPOP-Music-Player.git
 ```
 (Run)
-If you're using `Visual Studio Code` download **Live Server** in the Extension tab. After downloading it, Make sure you're in `loading.html` then below click the **Go live** And you're done.
-## Server
+If you're using `Visual Studio Code` download **Live Server** in the Extension tab. After downloading it, Make sure you're in `loading.html` then below click the **Go live** And you're done. (Image example below)
+### Server
 ![Server](./images/example3.png "Server Example")
 
 
