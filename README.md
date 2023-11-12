@@ -2,7 +2,7 @@
 
 <h4 align="center">A KPOP web MUSIC PLAYER using javascript. Build in HTML , CSS and JS</h4>
 
-<a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
+<a align="center" href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
 
 ### Simple Loading Screen
 
