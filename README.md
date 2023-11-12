@@ -7,7 +7,7 @@
 <a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
 
 <h5>Repl.it Deploy</h5>
-<a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
+<a href="https://kpop-music-player.yuiishiro01.repl.co/"><strong>🡆 Live Website</strong></a>
 </div>
 
 ### Simple Loading Screen
