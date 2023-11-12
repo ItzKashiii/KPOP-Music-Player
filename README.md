@@ -19,6 +19,7 @@ git clone https://github.com/ItzKashiii/KPOP-Music-Player.git
 ```
 (Run)
 If you're using `Visual Studio Code` download **Live Server** in the Extension tab. After downloading it, Make sure you're in `loading.html` then below click the **Go live** And you're done.
+## Server
 ![Server](./images/example3.png "Server Example")
 
 
