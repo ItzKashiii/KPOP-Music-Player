@@ -19,3 +19,11 @@ git clone https://github.com/ItzKashiii/KPOP-Music-Player.git
 ```
 (Run)
 If you're using `Visual Studio Code` download **Live Server** in the Extension tab. After downloading it, Make sure you're in `loading.html` then below click the **Go live** And you're done. 
+
+
+### Other Infos
+There are only 6 songs in the website, You can add more songs manually in the ```script.js``` file. Enjoy using it ^^
+
+
+### Star
+Star this repo if you like this repo, Thank you!
